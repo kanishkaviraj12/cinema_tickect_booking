@@ -21,8 +21,8 @@
 ### Built With
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=javascript,mysql" /><br>
-    <img src="https://skillicons.dev/icons?i=html,css,php" />
+    <img src="https://skillicons.dev/icons?i=flutter,dart" /><br>
+    <img src="https://skillicons.dev/icons?i=firebase" />
 </div>
 
 
