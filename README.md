@@ -17,6 +17,13 @@
     ![photo_2024-05-05_09-43-38](https://github.com/kanishkaviraj12/cinema_tickect_booking/assets/74193616/ca40c086-4b0e-4b6c-a3ae-8fc60dc87ac8)
     ![photo_2024-05-05_09-43-36](https://github.com/kanishkaviraj12/cinema_tickect_booking/assets/74193616/67f80738-1666-4231-bbc8-afb77f40ace9)
     ![photo_2024-05-05_09-43-35](https://github.com/kanishkaviraj12/cinema_tickect_booking/assets/74193616/2801d368-0f90-42ac-b7d1-89ba15b67ad1) 
+![image](https://github.com/kanishkaviraj12/cinema_tickect_booking/assets/74193616/a76cfeaf-25aa-4115-a250-cec2bc29cd85)
+![image](https://github.com/kanishkaviraj12/cinema_tickect_booking/assets/74193616/26c247f7-9bf0-4bd7-b3f1-a5177073478e)
+![image](https://github.com/kanishkaviraj12/cinema_tickect_booking/assets/74193616/55fee727-4766-469d-a849-9e81622ca611)
+![image](https://github.com/kanishkaviraj12/cinema_tickect_booking/assets/74193616/96b42212-ac6f-4ba2-b1fa-2cdfc69aaa78)
+![image](https://github.com/kanishkaviraj12/cinema_tickect_booking/assets/74193616/7f7f723c-8dc0-4d1f-bcc6-ff8d652f50f2)
+![image](https://github.com/kanishkaviraj12/cinema_tickect_booking/assets/74193616/2c16be5b-1fda-4031-a259-7b712ee62d9f)
+
 
 ### Built With
 
