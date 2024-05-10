@@ -7,16 +7,11 @@
 ## About The Project
 <p>Online Movie Ticket Booking App is an online ticket booking project Customer scan book tickets 24 hours a day from any where in the world and interact with mobile applications to know about currently running movies and their schedule or service information</p><br>
 
-![photo_2024-05-05_09-43-32](https://github.com/kanishkaviraj12/cinema_tickect_booking/assets/74193616/cd93b542-66a6-4413-8952-989f42c14e10)
-![photo_2024-05-05_09-43-33](https://github.com/kanishkaviraj12/cinema_tickect_booking/assets/74193616/24356b14-dc2b-44b0-bc70-c60c7b76a417)
-![photo_2024-05-05_09-43-46](https://github.com/kanishkaviraj12/cinema_tickect_booking/assets/74193616/c5499a43-1906-4c20-ad2a-02a74af8c0a3)
-![photo_2024-05-05_09-43-44](https://github.com/kanishkaviraj12/cinema_tickect_booking/assets/74193616/3c5d29f4-5718-4b5c-9e5e-3a0a8462e2b2)
-    ![photo_2024-05-05_09-43-43](https://github.com/kanishkaviraj12/cinema_tickect_booking/assets/74193616/ddd27f2a-c468-4962-9e36-8d37e1dd17e6)
-    ![photo_2024-05-05_09-43-41](https://github.com/kanishkaviraj12/cinema_tickect_booking/assets/74193616/b20f68ee-4e73-481c-8e72-0625612e4ff5)
-    ![photo_2024-05-05_09-43-39](https://github.com/kanishkaviraj12/cinema_tickect_booking/assets/74193616/541b7481-6735-479c-ac9c-67262a3967c3)
-    ![photo_2024-05-05_09-43-38](https://github.com/kanishkaviraj12/cinema_tickect_booking/assets/74193616/ca40c086-4b0e-4b6c-a3ae-8fc60dc87ac8)
-    ![photo_2024-05-05_09-43-36](https://github.com/kanishkaviraj12/cinema_tickect_booking/assets/74193616/67f80738-1666-4231-bbc8-afb77f40ace9)
-    ![photo_2024-05-05_09-43-35](https://github.com/kanishkaviraj12/cinema_tickect_booking/assets/74193616/2801d368-0f90-42ac-b7d1-89ba15b67ad1) 
+![Untitled design](https://github.com/kanishkaviraj12/cinema_tickect_booking/assets/74193616/784ed7f4-2dd7-4b2f-9d0b-fb497b8324df)
+![Untitled design (3)](https://github.com/kanishkaviraj12/cinema_tickect_booking/assets/74193616/cc0aa015-41eb-4d87-9ef5-b66b6e6fc9eb)
+![Untitled design (2)](https://github.com/kanishkaviraj12/cinema_tickect_booking/assets/74193616/75e21407-1281-4142-8b9a-bff448957acf)
+![Untitled design (1)](https://github.com/kanishkaviraj12/cinema_tickect_booking/assets/74193616/99cd07ba-aac0-4dcc-b62f-fd0a44195d11)
+
 ![image](https://github.com/kanishkaviraj12/cinema_tickect_booking/assets/74193616/a76cfeaf-25aa-4115-a250-cec2bc29cd85)
 ![image](https://github.com/kanishkaviraj12/cinema_tickect_booking/assets/74193616/26c247f7-9bf0-4bd7-b3f1-a5177073478e)
 ![image](https://github.com/kanishkaviraj12/cinema_tickect_booking/assets/74193616/55fee727-4766-469d-a849-9e81622ca611)
