@@ -8,9 +8,9 @@
 <p>Online Movie Ticket Booking App is an online ticket booking project Customer scan book tickets 24 hours a day from any where in the world and interact with mobile applications to know about currently running movies and their schedule or service information</p><br>
 
 ![Untitled design](https://github.com/kanishkaviraj12/cinema_tickect_booking/assets/74193616/784ed7f4-2dd7-4b2f-9d0b-fb497b8324df)
-![Untitled design (3)](https://github.com/kanishkaviraj12/cinema_tickect_booking/assets/74193616/cc0aa015-41eb-4d87-9ef5-b66b6e6fc9eb)
-![Untitled design (2)](https://github.com/kanishkaviraj12/cinema_tickect_booking/assets/74193616/75e21407-1281-4142-8b9a-bff448957acf)
 ![Untitled design (1)](https://github.com/kanishkaviraj12/cinema_tickect_booking/assets/74193616/99cd07ba-aac0-4dcc-b62f-fd0a44195d11)
+![Untitled design (2)](https://github.com/kanishkaviraj12/cinema_tickect_booking/assets/74193616/75e21407-1281-4142-8b9a-bff448957acf)
+![Untitled design (3)](https://github.com/kanishkaviraj12/cinema_tickect_booking/assets/74193616/cc0aa015-41eb-4d87-9ef5-b66b6e6fc9eb)
 
 ![image](https://github.com/kanishkaviraj12/cinema_tickect_booking/assets/74193616/a76cfeaf-25aa-4115-a250-cec2bc29cd85)
 ![image](https://github.com/kanishkaviraj12/cinema_tickect_booking/assets/74193616/26c247f7-9bf0-4bd7-b3f1-a5177073478e)
